@@ -79,3 +79,4 @@ Para ejecutar correctamente el notebook en Google Colab:
 
 
 ## Link del video
+https://youtu.be/fWv8CSQ9OpQ
